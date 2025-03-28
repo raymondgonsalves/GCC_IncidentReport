@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/f6d4e55f-7a71-4b35-9fd7-d192f22ebf35)
 
 # Project Overview
-As a cybersecurity analyst, I was tasked with using this security event (see Scenario Section below) to create a plan to improve the company’s network security.. 
+As a cybersecurity analyst, I was tasked with using this security event (see Scenario Section below) to create a plan to improve the company’s network security. 
 
 I used the NIST CSF 800-61 framework to analyze and respond the network incident. I made recommendations on improving the organizations security posture based on the insights gained from my investigation.
 
